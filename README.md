@@ -94,5 +94,3 @@ I'm a Computer Science undergraduate passionate about building scalable web appl
 🌐 **GitHub:** https://github.com/namanguptag
 
 ---
-
-> *"Build. Learn. Improve. Repeat."* 🚀
